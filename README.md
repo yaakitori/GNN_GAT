@@ -1,2 +1,1 @@
-# GNN pre
-MY first repository on Git Hub 
+GATについての成果
